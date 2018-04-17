@@ -2,7 +2,7 @@
 
 ## scratch-off on React.js
 
-![](/Users/wayne.yeh/Documents/GitHub/scratch-off-react/doc/screen.png)
+![](/doc/screen.png)
 
 
 
